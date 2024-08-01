@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @madri1234
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning machine learning using python. i like R too.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on MLOPS.
   - 😄 Pronouns: She/her
 - ⚡ Fun fact:i feel i shouldnt have come to coding and also i hate vscode and webdev. 
 
