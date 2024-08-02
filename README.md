@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @madri1234
+- 👋 Hi, I’m Adrija Mondal.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning machine learning using python. i like R too.
 - 💞️ I’m looking to collaborate on MLOPS.
