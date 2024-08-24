@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on MLOPS.
   - 😄 Pronouns: She/her
 - ⚡ Fun fact:i feel i shouldnt have come to coding and also i hate vscode and webdev.
-- Programming Languages : Java,C++,C,Python,HTML/CSS,Javascript
+- Programming Languages : Java,C++,C,Python,SQL,HTML/CSS,Javascript
 - Frameworks:Numpy,pandas,Scikit-learn, Tensorflow,Keras,Matplotlib, React
 
 <!---
